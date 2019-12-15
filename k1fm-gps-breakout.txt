@@ -1,0 +1,17 @@
+Partlist
+
+Exported from k1fm-gps-breakout.sch at 12/15/19 10:56 AM
+
+EAGLE Version 9.4.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device            Package        Library             Sheet
+
+ANT-CHIP ANT1           1575AT43A0040E    1575AT43A0040E samacsys_parts      1
+C10      0.47uF         0.1UF-0603-25V-5% 0603           SparkFun-Capacitors 1
+GPS-ANT  GPS ANT        CONN_02           1X02           SparkFun-Connectors 1
+GPS1     UBLOX_MAX      UBLOX_MAX         UBLOX_MAX      Ava                 1
+J1                      CONN_05           1X05           SparkFun-Connectors 1
+J2                      CONN_04           1X04           SparkFun-Connectors 1
+J3       POWER          CONN_02           1X02           SparkFun-Connectors 1
